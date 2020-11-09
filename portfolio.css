@@ -1,0 +1,66 @@
+.headline {
+    text-align: center;
+   padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:white;
+    box-shadow: 0 3px 6px -2px black;
+    
+  }
+
+
+.project {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: white;
+    box-shadow: 0 3px 6px -2px black;
+    margin: 2em auto;
+    padding: 1em;
+}
+
+.project-img {
+    width: 240px;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
+
+.img-project {
+    width: 304px;
+    height: 208px;
+    padding: 5px;
+    margin-bottom: 1em;
+
+}
+
+.project-name {
+    text-align: center;
+    padding-bottom: 1em;
+    border-bottom: 1px solid black;
+}
+
+.math-card {
+  
+    display: inline-block;
+    background: orange;
+    padding: 15px;
+    margin-right: 50px;
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    box-sizing: border-box;
+    border: 2px solid black;
+    
+}
+
+#card1 {
+    margin-left: 8em;
+}
+.first-term, .second-term, .result {
+    margin: 12px 0;
+    
+}
+.result {
+    font-weight: bold;
+    border-top: 1px solid black;
+    padding-top: 20px;
+}

@@ -1,0 +1,56 @@
+main > h1 {
+    text-align: center;
+    padding-top: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: white;
+    border-bottom: 2px solid white;
+    
+  }
+
+
+.about-me {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin: 2em ;
+    padding: em;
+    color: white;
+    font-weight: 300;
+    /* background: black;
+    color: white;
+    padding: 2em; */
+}
+
+
+.about-me-img {
+    /* box-sizing: content-box;
+    border: 4px solid black; */
+    padding: 30px;
+    width: 500px;
+    float: right;
+}
+
+.title {
+    font-stretch:;
+    margin-top: 0em;
+    padding-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: underline;
+    /* border-bottom:2px solid white; */
+}
+.seaspro {
+    width: 440px;
+    height: 200px;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.seas {
+    background: black;
+    padding: 2em;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 2px 2px black;
+}
